@@ -1,7 +1,7 @@
 Three.js experiment
 =================
 
-Just a rotating box.
+Just a rotating box. Preview: https://three-d.glitch.me/
 
 
 The Project
